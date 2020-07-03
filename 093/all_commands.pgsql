@@ -1,4 +1,4 @@
-CREATE DATABASE wishlists;
+-- CREATE DATABASE wishlists;
 
 DROP TABLE IF EXISTS listitems;
 DROP TABLE IF EXISTS items;
